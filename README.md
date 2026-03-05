@@ -1,2 +1,0 @@
-# app_node_senati_2026
-app_node_senati_2026
